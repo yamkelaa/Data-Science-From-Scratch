@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IPython history and configuration
+.ipython/
+*.sqlite
+
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# VSCode settings (optional)
+.vscode/
+
+# Jupyter Notebook metadata backups (optional)
+*.nbconvert.ipynb
+
+# macOS system files
+.DS_Store
+
+# PyCharm settings (optional)
+.idea/
+
+# Logs and database files
+*.log
+*.db
+*.sqlite3
+
+# Jupyter runtime files
+~/Library/Jupyter/
+~/.local/share/jupyter/runtime/
+
+# pipenv and poetry
+Pipfile.lock
+poetry.lock
+
+# Test and coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+coverage.xml
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# MyPy, Pyre, Pylint, Bandit, etc.
+.mypy_cache/
+.pyre/
+.pylint.d/
+.bandit/
+
+# Local .env files
+.env
+.env.*
+
+# Notebook output cache (optional)
+.ipynb_checkpoints/
